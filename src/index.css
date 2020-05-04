@@ -1,0 +1,52 @@
+body{
+    background-color: gainsboro;
+}
+.comment-container{
+    padding: 30px;
+    width: 460px;
+}
+.comment{
+    background-color: white;
+    color: cadetblue;
+    border: 2px solid cadetblue ;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 10px;
+}
+.main-heading{
+    margin-top: 30px;
+}
+.form-name, .form-text{
+    width: 400px;
+    outline: none;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.submit-button{
+  float: right;
+  padding: 5px;
+  color: white;
+  background-color: cadetblue;
+  font-size: 20px;
+}
+.name{
+    color: rgb(39, 100, 102);
+    margin-top: 20px;
+}
+.date{
+    color: grey;
+}
+.comment-list{
+    margin-top: 50px;
+}
+.remove-item-cross{
+    font-size: 20px;
+    float: right;
+    color: red;
+    background-color: transparent;
+    border: none;
+}
+.checked{
+   color: crimson;
+}
